@@ -1,0 +1,14 @@
+.alertMsg{
+    margin: 0px;
+    padding: 20px; 
+
+}
+.alertMsg.error{
+    color: white; 
+    background-color: red;
+}
+
+.alertMsg.success{
+    color: white; 
+    background-color: green;
+}
